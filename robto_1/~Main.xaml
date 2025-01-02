@@ -80,9 +80,10 @@
       <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
       <AssemblyReference>System.Collections</AssemblyReference>
       <AssemblyReference>System.Collections.NonGeneric</AssemblyReference>
+      <AssemblyReference>GlobalVariablesT1PNoYwrqg</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="866,840" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="479.8,787.2" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Default="'I dont have a name T.T'" Name="myNameVar" />
     </Sequence.Variables>
@@ -91,26 +92,26 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Sequence DisplayName="Seq. Messagebox" sap:VirtualizedContainerService.HintSize="450,817" sap2010:WorkflowViewState.IdRef="Sequence_4">
+    <Sequence DisplayName="Seq. Messagebox" sap:VirtualizedContainerService.HintSize="449.6,764" sap2010:WorkflowViewState.IdRef="Sequence_4">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="416,271" sap2010:WorkflowViewState.IdRef="InputDialog_1" IsPassword="False" Label="Username" Title="Username">
+      <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="416,273.6" sap2010:WorkflowViewState.IdRef="InputDialog_1" IsPassword="False" Label="Username" Title="Username">
         <ui:InputDialog.Result>
           <OutArgument x:TypeArguments="x:String">[myNameVar]</OutArgument>
         </ui:InputDialog.Result>
       </ui:InputDialog>
-      <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="416,122" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="thsi is a line" />
-      <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="sec_wf - Invoke Workflow File (sec_wf.xaml)" sap:VirtualizedContainerService.HintSize="416,233" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_2" UnSafe="False" WorkflowFileName="sec_wf.xaml">
+      <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="416,122.4" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="thsi is a line" />
+      <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="sec_wf - Invoke Workflow File (sec_wf.xaml)" sap:VirtualizedContainerService.HintSize="416,176" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_2" UnSafe="False" WorkflowFileName="sec_wf.xaml">
         <ui:InvokeWorkflowFile.Arguments>
           <OutArgument x:TypeArguments="x:String" x:Key="myInsideJobName">[myNameVar]</OutArgument>
-          <InArgument x:TypeArguments="x:String" x:Key="myName25">[myNameArg]</InArgument>
+          <InArgument x:TypeArguments="x:String" x:Key="myName2">[myNameArg]</InArgument>
           <InArgument x:TypeArguments="x:String" x:Key="myName3">[myNameVar]</InArgument>
         </ui:InvokeWorkflowFile.Arguments>
       </ui:InvokeWorkflowFile>
-      <ui:MessageBox ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" Caption="First Robot" DisplayName="Displaytext" sap:VirtualizedContainerService.HintSize="416,108" sap2010:WorkflowViewState.IdRef="MessageBox_3" Text="[&quot;I am a robot and my name ist &quot; + myNameVar]" />
+      <ui:MessageBox ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" Caption="First Robot" DisplayName="Displaytext" sap:VirtualizedContainerService.HintSize="416,108.8" sap2010:WorkflowViewState.IdRef="MessageBox_3" Text="[&quot;I am a robot and my name ist &quot; + myNameVar]" />
     </Sequence>
   </Sequence>
 </Activity>
