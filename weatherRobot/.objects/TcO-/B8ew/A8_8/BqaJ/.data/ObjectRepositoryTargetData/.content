@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LWLFrDHwOEiE823qXZGW6w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="79b11ef4-0909-4e33-8a6a-0c884f0c1f40" CvTextArea="617, 433, 75, 15" CvType="AnyWordGroup" DesignTimeRectangle="618, 433, 74, 17" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='wob_dc' tag='SPAN' type='' class='' /&gt;" Guid="d42f10c2-a8af-45f3-b6ae-5c6670efe21b" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Wie ist das Wetter in London - Google Suche' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e0554a24ff831cc56ea329a9cc5d93de.png" xmlns="">0IbMz9MvS1UOedke17M7itw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

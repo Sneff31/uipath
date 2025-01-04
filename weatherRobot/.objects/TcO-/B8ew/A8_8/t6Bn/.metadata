@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Google Suche",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "t6Bn-JV7OUW1nb8B5-JfxQ",
+  "Reference": "ufdFlLKyg0e827QYAc77DQ/t6Bn-JV7OUW1nb8B5-JfxQ",
+  "ParentRef": "ufdFlLKyg0e827QYAc77DQ/A8_8q1yLxkC2PshscBPWUA",
+  "Created": "2025-01-03T18:24:20.5937593Z",
+  "Updated": "2025-01-03T18:24:20.5937593Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

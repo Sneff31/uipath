@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Wolkenlos",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "BqaJoV61vkCoQtqXISvgIQ",
+  "Reference": "ufdFlLKyg0e827QYAc77DQ/BqaJoV61vkCoQtqXISvgIQ",
+  "ParentRef": "ufdFlLKyg0e827QYAc77DQ/A8_8q1yLxkC2PshscBPWUA",
+  "Created": "2025-01-03T18:49:53.778999Z",
+  "Updated": "2025-01-03T18:49:53.778999Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

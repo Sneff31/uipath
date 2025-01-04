@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Z-WM21PXuEOn8V56Fep-0g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com" DesignTimeRectangle="304, 539, 394, 46" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='APjFqb' tag='TEXTAREA' /&gt;" Guid="c663a2b3-ed56-40b9-b87b-968717275e60" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Google' /&gt;" SearchSteps="Selector" Version="V4">
+      <imageRef attrName="InformativeScreenshot" originalValue="9081a4e066c653460507354e20f13d70.png" xmlns="">03ALhCquFJEaLD15wVpCE1Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">NativeTrigger</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

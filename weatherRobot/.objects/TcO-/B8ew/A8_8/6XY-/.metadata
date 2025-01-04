@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Wie ist das Wetter in H…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "6XY-mgsGDUehgqqIdKZQDw",
+  "Reference": "ufdFlLKyg0e827QYAc77DQ/6XY-mgsGDUehgqqIdKZQDw",
+  "ParentRef": "ufdFlLKyg0e827QYAc77DQ/A8_8q1yLxkC2PshscBPWUA",
+  "Created": "2025-01-03T18:20:32.893086Z",
+  "Updated": "2025-01-03T18:20:32.893086Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
