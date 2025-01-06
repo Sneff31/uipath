@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jE9ZP4AHR02_WYLmP9nK4Q" Reference="RHoMqmWFWU2ysAj_C3yMxw/YL0fpebhV0C-2X0YQGV_Qg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com/crm" CVScreenId="bfe5e85e-40c5-471d-af01-8c2bcb7662c8" CvElementArea="192, 407, 235, 37" CvType="InputBox" DesignTimeRectangle="193, 409, 233, 34" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tabindex='4' tag='INPUT' type='input' class='bubble-element Input a1736180079623x1580' aaname='' /&gt;" Guid="11998dee-d8d5-4eac-a3f4-8f4431172739" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='CRM' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="bfe5e85e-40c5-471d-af01-8c2bcb7662c8" CvTextArea="139, 413, 36, 14" CvTextArgument="Last:" CvType="Text" DesignTimeRectangle="139, 409, 54, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Last:' class='content' tag='DIV' type='' check:innerText='Last:' /&gt;" Guid="6ced5c23-3f36-413a-919e-8ac08eb5d421" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b72a207c5b0370fec0be6577c51320ad.png" xmlns="">0bTNMJdJ2TUeZwdHEpu2Fow</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

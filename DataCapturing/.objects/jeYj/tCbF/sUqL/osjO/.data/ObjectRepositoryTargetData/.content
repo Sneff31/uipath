@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="asaPMRlLLkibNDZfs4O49g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com/crm" CVScreenId="4ec1acf3-e1a0-40e5-bba2-650a6d969e1c" CvElementArea="224, 455, 23, 22" CvType="RadioButton" DesignTimeRectangle="224, 455, 23, 22" DesignTimeScaleFactor="1" ElementType="RadioButton" Guid="79801444-6a93-41f7-99c3-80b699f1218f" ScopeSelectorArgument="&lt;html app='msedge.exe' title='CRM' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="4ec1acf3-e1a0-40e5-bba2-650a6d969e1c" CvTextArea="252, 459, 30, 14" CvTextArgument="Male" CvType="Text" DesignTimeRectangle="247, 460, 54, 14" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='Male' check:innerText='Male' /&gt;" Guid="f74fb38c-bf6f-4a41-99f9-7f30bf2e62d8" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d17097a3ee36ba2dda94be4b6e07f6c9.png" xmlns="">0dcrdeNsPwUO9SyQnJD8l_g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
