@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KEiocnU8WUOpprAgMx2ZbQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com/crm" DesignTimeRectangle="247, 460, 54, 14" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='Male' check:innerText='Male' /&gt;" Guid="9616ccfb-db4d-45d8-a9e2-3216c3f97248" ScopeSelectorArgument="&lt;html app='msedge.exe' title='CRM' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ab4fbd3f39426b8eecab40b7b6c28c92.png" xmlns="">08Dm3GxWnakGpdGcZ0Cc6uw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

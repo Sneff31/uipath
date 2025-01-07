@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="V0ukKJWoxEGHa02NXzIUQA" Reference="RHoMqmWFWU2ysAj_C3yMxw/VyHmhjdbfk6iASrnVzS_bA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com/crm" DesignTimeRectangle="226, 630, 199, 34" DesignTimeScaleFactor="1" ElementType="DropDown" FullSelectorArgument="&lt;webctrl tag='SELECT' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='SELECT' type='' class='bubble-element Dropdown dropdown-chevron' aaname='' /&gt;" Guid="b250a0f4-517b-4a73-b32f-42cd96180db5" ScopeSelectorArgument="&lt;html app='msedge.exe' title='CRM' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target DesignTimeRectangle="138, 630, 88, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='State:' class='content' tag='DIV' type='' check:innerText='State:' /&gt;" Guid="b705821b-e5a4-4d1c-9aff-e3e29ba223ea" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c4755e9decbbb9caf51b4ebd38523dd0.png" xmlns="">0uHYYowxCK0GdEjglMZwXng</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

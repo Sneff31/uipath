@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="TT3SZxaJZkWfgcfDwRDCPg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com/crm" DesignTimeRectangle="751, 517, 199, 34" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='email' class='bubble-element Input a1736257014578x1695' aaname='' /&gt;" Guid="2143f1e7-0a4f-4e49-b82b-cae1f64536ab" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='CRM' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="665, 519, 86, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Personal:' class='content' tag='DIV' type='' check:innerText='Personal:' /&gt;" Guid="832180f5-cbfc-4a2a-bb20-603174c6313b" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="aa0d97b9dc0dc071af64407b81fff81e.png" xmlns="">0dTa5d2YU9EOt0ITFZVFxuw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
