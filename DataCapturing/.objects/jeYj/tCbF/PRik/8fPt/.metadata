@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Work Email",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "8fPtoFgisEuILG7rSkYaNQ",
+  "Reference": "RHoMqmWFWU2ysAj_C3yMxw/8fPtoFgisEuILG7rSkYaNQ",
+  "ParentRef": "RHoMqmWFWU2ysAj_C3yMxw/PRik7kjLIUmbZ9Dgq9B_Ew",
+  "Created": "2025-01-07T15:17:18.4962556Z",
+  "Updated": "2025-01-07T15:17:18.4962556Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
