@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Oba",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "Xvz40vKpw0CjSBFgK9sSSA",
+  "Reference": "U-ywv0MD2ES9g70wiCfEkQ/Xvz40vKpw0CjSBFgK9sSSA",
+  "ParentRef": "U-ywv0MD2ES9g70wiCfEkQ/k9Vh4vaOMEiE8MeW2uqrTg",
+  "Created": "2025-01-08T18:49:35.3288349Z",
+  "Updated": "2025-01-08T18:49:35.3288349Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

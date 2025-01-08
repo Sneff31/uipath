@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5IfR-wT310qMdouxYMtmzQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com" CVScreenId="d1d0a338-6565-4e12-a22d-68360c6a43c4" CvElementArea="675, 249, 177, 44" CvType="InputBox" DesignTimeRectangle="677, 251, 173, 41" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tabindex='21' tag='INPUT' type='input' class='bubble-element Input a1736361305434x3347' aaname='' /&gt;" Guid="6a3726e8-ee1a-4c98-a2f9-46c134ba22d8" ScopeSelectorArgument="&lt;html app='msedge.exe' title='The Automation Challenge' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d1d0a338-6565-4e12-a22d-68360c6a43c4" CvElementArea="675, 249, 177, 44" CvTextArea="621, 258, 48, 14" CvTextArgument="Sector" CvType="InputBox" DesignTimeRectangle="588, 251, 262, 41" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl type='' class='bubble-element Group' tag='DIV' aaname='' check:text='Sector' /&gt;" Guid="7ea1a53b-e670-4010-b304-e562532c3f98" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="90df2e82ff51b5beebdecc4f2796840e.png" xmlns="">09My_ZA_40UaMA6mHrHpjaA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

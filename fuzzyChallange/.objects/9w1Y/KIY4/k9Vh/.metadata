@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge The Automation Challenge",
+  "Type": "Screen",
+  "Id": "k9Vh4vaOMEiE8MeW2uqrTg",
+  "Reference": "U-ywv0MD2ES9g70wiCfEkQ/k9Vh4vaOMEiE8MeW2uqrTg",
+  "ParentRef": "U-ywv0MD2ES9g70wiCfEkQ/KIY4E1RPPkmse3PKfhyhcA",
+  "Created": "2025-01-08T14:17:39.3649913Z",
+  "Updated": "2025-01-08T14:17:39.3649913Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
