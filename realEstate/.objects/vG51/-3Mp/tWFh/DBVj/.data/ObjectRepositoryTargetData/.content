@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ciYXX4G1EEqeiOvQxALIQQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="zillow.com/boston-ma/houses" CVScreenId="fb90a5a9-fef6-4955-9ebb-48b4b771d5bf" CvElementArea="1338, 917, 226, 58" CvTextArea="1420, 936, 61, 23" CvTextArgument="Apply" CvType="Button" DesignTimeRectangle="1340, 919, 223, 55" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='Apply' parentid='home-type' tag='BUTTON' innertext='Apply' type='' class='StyledButton-c11n-8-109-3__sc-iv7357-0 eFeCOZ' check:text='Apply' /&gt;" Guid="e6ac791e-3dbf-4d61-bb7b-cd5beb76984b" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Boston MA Single Family Homes For Sale - 116 Homes | Zillow' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="fa2c80085cbba673923ab9017d5378e2.png" xmlns="">0cilQSacnsEi8GxJCd6yPRw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

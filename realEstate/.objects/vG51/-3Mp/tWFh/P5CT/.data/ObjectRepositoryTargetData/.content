@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-35Vpd6A2EOxCWHdKRbIAQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="zillow.com" CVScreenId="6eea9bee-d07b-488f-a609-001f2e8ed6ee" CvTextArea="249, 654, 469, 18" CvTextArgument="Enter an address, neighborhood, city, or ZIP code" CvType="Text" DesignTimeRectangle="230, 620, 503, 90" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' class='StyledFormControl-c11n-8-106-0__sc-w61kvv-0 igfrFI Input-c11n-8-106-0__sc-4ry0fw-0 ljYGJX' placeholder='Enter an address, neighborhood, city, or ZIP code' aaname='clear search text buttonSubmit Search' /&gt;" Guid="898a30a4-6499-4740-aa65-f4608b5d4a4a" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Zillow: Real Estate, Apartments, Mortgages &amp;amp; Home Values' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="733, 620, 96, 90" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='StyledAdornment-c11n-8-106-0__sc-1h2m3pa-0 AdornmentRight-c11n-8-106-0__sc-46k37c-0 fdWxSd hGKwpM SearchBoxInput__StyledSearchBoxAdornment-sxp-sb-8-106-0__sc-1hknwe6-0 cGaWQm' aaname='' check:innerText='Submit Search' /&gt;" Guid="10c66344-77ac-43e8-ac79-151fda0dc860" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="17e5fccb90eed4900ff9ac26bcab8a87.png" xmlns="">0-LlcAUMZY0q8Wu3Z42qP1w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

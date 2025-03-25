@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="VLtd51yvQ0uGw5Nz3rMZXQ" Reference="1AUGzM7pl06V-nraes3ttQ/2JLGFuxgbUarDnADYN3iuQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="zillow.com/boston-ma/houses" DesignTimeRectangle="987, 369, 937, 655" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;webctrl id='search-page-list-container' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='search-page-list-container' tag='DIV' type='' class='SearchPageListContainer__StyledSearchPageListContainer-srp-8-109-3__sc-4vf8s4-0 jtnunk search-page-list-container short-list-cards' aaname='' check:innerText='Boston MA Single Family Homes&amp;#xA;116 results&amp;#xA;Sort: Homes for You&amp;#xA;176 School St #D, Jamaica Plain, MA' /&gt;" Guid="caece400-7311-4a7a-8861-ef1b60c5f220" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Boston MA Single Family Homes For Sale - 112 Homes | Zillow' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="33e45b6fda8a4eb9efea7b97ae3494ef.png" xmlns="">0h_AH7S71fkKvmm9-unIkZA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

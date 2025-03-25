@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DreRSy8aAkebGepLcI7cUA" Reference="1AUGzM7pl06V-nraes3ttQ/IzS-HTxG6Eu-epsx4UH3Cw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="zillow.com/boston-ma" CVScreenId="5dfadce4-8427-49cd-b4d6-520c58add2c1" CvTextArea="1379, 432, 103, 17" CvTextArgument="Deselect All" CvType="Text" DesignTimeRectangle="1340, 427, 142, 30" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='Deselect All' tag='BUTTON' type='button' innertext='Deselect All' /&gt;" FuzzyAccuracy="0.7" FuzzySelectorArgument="&lt;webctrl aaname='Deselect All' tag='BUTTON' type='button' innertext='Deselect All' class='StyledTextButton-c11n-8-109-3__sc-1nwmfqo-0 fVlvPS' check:text='Deselect All' /&gt;" Guid="a86cf733-9685-40c0-8efe-5eaa867f08ad" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Boston MA Real Estate - Boston MA Homes For Sale | Zillow' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5dfadce4-8427-49cd-b4d6-520c58add2c1" CvTextArea="1379, 432, 103, 17" CvTextArgument="Deselect All" CvType="Text" DesignTimeRectangle="1379, 432, 103, 17" ElementType="Text" Guid="b7b93e69-923b-4b56-a89a-90b66c097e19" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ef13ee1f79b4e6c42eff3d17caa544ca.png" xmlns="">0COlEIkP_bUGYOScMH_-U8Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

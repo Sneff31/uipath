@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Boston MA Single Family Homes For Sale -",
+  "Type": "Screen",
+  "Id": "VSaFjUDrdUS-eE1YcgchrA",
+  "Reference": "1AUGzM7pl06V-nraes3ttQ/VSaFjUDrdUS-eE1YcgchrA",
+  "ParentRef": "1AUGzM7pl06V-nraes3ttQ/-3Mp0MMV00GG6yv5mLbdvA",
+  "Created": "2025-03-19T20:02:27.5001116Z",
+  "Updated": "2025-03-19T20:02:27.5001116Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="EiUQ_byRokKpx1iFKxTRsQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.de" DesignTimeRectangle="14, 938, 1891, 86" DesignTimeScaleFactor="1.125" FuzzySelectorArgument="&lt;webctrl type='' class='navFooterLine navFooterLinkLine navFooterPadItemLine navFooterCopyright' parentid='navFooter' tag='DIV' aaname='    ' check:innerText='Unsere AGB&amp;#xA;Datenschutzerklärung&amp;#xA;Impressum&amp;#xA;Hinweise zu Cookies&amp;#xA;Hinweise zu interessenbasierter' /&gt;" Guid="cc78f5da-0007-466f-bfb5-8078f771a589" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Amazon.de: Günstige Preise für Elektronik &amp;amp; Foto, Filme, Musik, Bücher, Games, Spielzeug &amp;amp; mehr' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="40e0c8b61c2d8188fda61a357a074077.png" xmlns="">031_EfjjbeUO4PNKbhncoSw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScrollSearchedElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

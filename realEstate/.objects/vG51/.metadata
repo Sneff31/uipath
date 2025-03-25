@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Zillow Real Estate, Apartments, Mortgages & Home Values",
+  "Type": "App",
+  "Id": "vG512Bsr7kKaFjO5rLtuaQ",
+  "Reference": "1AUGzM7pl06V-nraes3ttQ/vG512Bsr7kKaFjO5rLtuaQ",
+  "Created": "2025-01-08T19:34:41.4038893Z",
+  "Updated": "2025-01-08T19:34:41.4038893Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

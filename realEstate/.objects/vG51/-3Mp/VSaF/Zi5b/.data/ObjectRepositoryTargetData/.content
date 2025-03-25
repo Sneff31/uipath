@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="EuDaPaCgL0WvsslqfhoLHQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="zillow.com/boston-ma/houses" DesignTimeRectangle="1174, 911, 735, 41" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl class='generic-display-ad-container' parentid='grid-search-results' tag='DIV' type='' aaname='' /&gt;" Guid="32072b00-c7a6-4ec0-91e7-8728948e4cc7" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Boston MA Single Family Homes For Sale - 121 Homes | Zillow' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a88c2891825d35f100683dfcbc768506.png" xmlns="">06sR0sqVyFE-cg7GSeYep1g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScrollSearchedElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lIdQpVydgEmcBSaIA4rS0A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="zillow.com/boston-ma" CVScreenId="d70f8dd3-b966-4d54-b83b-ff55fd25885e" CvElementArea="1341, 490, 29, 29" CvType="CheckBox" DesignTimeRectangle="1343, 492, 25, 25" DesignTimeScaleFactor="1.25" ElementType="CheckBox" FullSelectorArgument="&lt;webctrl id='home-type_isSingleFamily' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='home-type_isSingleFamily' tag='INPUT' type='checkbox' class='StyledFormControl-c11n-8-109-3__sc-w61kvv-0 iVoxNw StyledCheckbox-c11n-8-109-3__sc-13jdanj-0 vmLum StyledFilterCheckbox__StyledCheckbox-srp-8-109-3__sc-9abn3d-2 hsiQpn' aaname='Houses ' /&gt;" Guid="59bf51e3-298c-4479-b5f7-75a6981b65aa" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Boston MA Real Estate - Boston MA Homes For Sale | Zillow' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d70f8dd3-b966-4d54-b83b-ff55fd25885e" CvTextArea="1376, 492, 71, 17" CvTextArgument="Houses" CvType="Text" DesignTimeRectangle="1368, 487, 84, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Houses ' tag='LABEL' type='' class='StyledLabel-c11n-8-109-3__sc-14wqmdp-0 jmZqPk short-label' check:innerText='Houses' /&gt;" Guid="b06b137f-ba7e-4a53-8444-857a2e468137" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8262da7c90670ca238ecb5446414a260.png" xmlns="">07y6f5fZafkeuPzas27tgAg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Check</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

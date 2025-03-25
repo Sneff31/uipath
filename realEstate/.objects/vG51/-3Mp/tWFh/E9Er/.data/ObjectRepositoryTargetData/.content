@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0jVn9AuYEU-qsSmn_9Bt0A" Reference="1AUGzM7pl06V-nraes3ttQ/E9ErsZBTYkWNFLEOpMEZQw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.de" ContentHash="s2yocYrTpEu8FB_G7dt1tw" DesignTimeRectangle="12, 260, 1897, 4845" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='pageContent' tag='DIV' type='' class='a-section a-spacing-none' aaname='       ' /&gt;" Guid="02e8ddd4-6ae9-427c-9f87-25fb06658e07" IsResponsive="True" Reference="1AUGzM7pl06V-nraes3ttQ/E9ErsZBTYkWNFLEOpMEZQw" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Amazon.de: Günstige Preise für Elektronik &amp;amp; Foto, Filme, Musik, Bücher, Games, Spielzeug &amp;amp; mehr' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1" />
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e540ff2879566c6361ea7880871e8267.png" xmlns="">0i39TVanRDE2pW35fsVTknA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

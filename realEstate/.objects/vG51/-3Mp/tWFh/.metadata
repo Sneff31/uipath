@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Zillow Real Estate, Apartments, Mortgage",
+  "Type": "Screen",
+  "Id": "tWFh_vYVcU6E5Hu6FfUTTQ",
+  "Reference": "1AUGzM7pl06V-nraes3ttQ/tWFh_vYVcU6E5Hu6FfUTTQ",
+  "ParentRef": "1AUGzM7pl06V-nraes3ttQ/-3Mp0MMV00GG6yv5mLbdvA",
+  "Created": "2025-01-08T19:34:41.5771394Z",
+  "Updated": "2025-01-08T19:34:41.5771394Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

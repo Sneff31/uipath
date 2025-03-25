@@ -1,0 +1,61 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "LoadPage&Sequence_1",
+        "StringData&Sequence_1",
+        "ExtractDataTable&Sequence_1",
+        "myCity&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.d88e65ff1701.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "myCity&Sequence_1",
+        "WSSessionData&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main(Autosaved).xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "myCity&Sequence_1",
+        "ExtractDataTable&Sequence_1",
+        "StringData&Sequence_1",
+        "LoadPage&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Workflow.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "DataString&Sequence_1",
+        "ExtractedData&Sequence_1",
+        "LoadPage&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SaUyINEjOEKO8wDQHk7NjA" Reference="1AUGzM7pl06V-nraes3ttQ/n_pk4vjGbkevf_z9KJBtNw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="zillow.com/boston-ma/houses" CVScreenId="a4823b99-d098-40a8-b3ae-ba599000eef8" CvElementArea="1864, 351, 24, 20" CvTextArea="1720, 355, 141, 13" CvTextArgument="Sort: Homes for You" CvType="ArrowButton" DesignTimeRectangle="1716, 350, 173, 23" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;webctrl id='sort-popover' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl id='sort-popover' tag='BUTTON' type='' class='StyledButton-c11n-8-109-3__sc-iv7357-0 ldukjf DropdownButton-c11n-8-109-3__sc-1nhw8sf-0 SortOptionsPopover__StyledDropdownButton-srp-8-109-3__sc-42419g-1 jkBqil dLGfNI DropdownPopper-c11n-8-109-3__sc-u1wzgh-0 kmoYuo MenuPopper-c11n-8-109-3__sc-mwvf22-0 hUXPJU a11y-pagination-focus' aaname='Sort: Homes for You' check:innerText='Sort: Homes for You' /&gt;" Guid="00cd50f5-067f-4631-b55a-bc9f454f6f05" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Boston MA Single Family Homes For Sale - 121 Homes | Zillow' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="13b80ab86678b2c38b92bc62fa67b2d8.png" xmlns="">0pJSy0FNTZEGxgyW89Y1CYQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScroll</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

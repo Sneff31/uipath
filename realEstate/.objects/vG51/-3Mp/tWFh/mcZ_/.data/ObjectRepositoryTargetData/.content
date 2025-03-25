@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tABeCAe0dkyGU5nCP4ZymA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="zillow.com/homes/44269_rid" CVScreenId="57d4404f-ed0d-4b86-aac5-1d0bfa51c8f8" CvElementArea="806, 614, 329, 57" CvTextArea="940, 631, 61, 25" CvTextArgument="Apply" CvType="Button" DesignTimeRectangle="809, 615, 325, 55" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='Apply' parentid='listing-type' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Apply' parentid='listing-type' tag='BUTTON' type='' class='StyledButton-c11n-8-109-3__sc-iv7357-0 eFeCOZ' check:innerText='Apply' /&gt;" Guid="2bcecd66-4014-4053-b751-485e6a8a924b" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Boston MA Single Family Homes For Sale - 116 Homes | Zillow' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0391691b60323f12e68bbc5b8ef2c6c2.png" xmlns="">0xze1xgCQpE6aR782FMMyiw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

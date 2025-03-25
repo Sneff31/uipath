@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PW6SGlNYBUKI_eAM4f3ujg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="zillow.com/boston-ma/houses/3_p" CVScreenId="8d5da2c9-ccb3-40e3-9346-533168b26abe" CvElementArea="1305, 777, 27, 30" CvType="ArrowButton" DesignTimeRectangle="1291, 764, 55, 55" DesignTimeScaleFactor="1.25" FuzzySelectorArgument="&lt;webctrl parentid='grid-search-results' tag='A' type='' class='StyledButton-c11n-8-109-3__sc-iv7357-0 jRehVC PaginationButton-c11n-8-109-3__sc-1i6hxyy-0 dmzPQJ' aaname='Previous page' /&gt;" Guid="f6e525d4-c87a-4e9c-b625-bed823d975d3" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Boston MA Single Family Homes For Sale - 121 Homes | Zillow' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="724f20dd05cd8fdc54ad155d3be6f9ed.png" xmlns="">0IjL8xdvd-EWYql3EhTqABQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScrollSearchedElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
